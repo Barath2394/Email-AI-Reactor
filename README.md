@@ -1,0 +1,15 @@
+📧 AI-Powered Smart Email Assistant
+Revolutionize your inbox! This AI-powered email assistant automatically categorizes, prioritizes, and generates intelligent replies—saving you time and boosting productivity.
+
+📂 Smart Categorization: Automatically classifies emails into categories like Work, Promotions, Personal, and Spam.
+
+⚡ Priority Inbox: Uses AI to identify and highlight high-priority messages.
+
+🤖 AI-Generated Replies: Suggests context-aware responses using transformer-based models.
+
+🛠️ Spring Boot Backend: Scalable REST API built with Java and Spring Boot.
+
+🧠 ML Integration: Plug-in architecture for integrating custom ML/NLP models.
+
+🔐 Role-Based Authentication: Secure login system with JWT support.
+
