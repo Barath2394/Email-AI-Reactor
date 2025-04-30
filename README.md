@@ -1,6 +1,7 @@
 📧 AI-Powered Smart Email Assistant
 Revolutionize your inbox! This AI-powered email assistant automatically categorizes, prioritizes, and generates intelligent replies—saving you time and boosting productivity.
 
+✨ Features
 📂 Smart Categorization: Automatically classifies emails into categories like Work, Promotions, Personal, and Spam.
 
 ⚡ Priority Inbox: Uses AI to identify and highlight high-priority messages.
