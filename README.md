@@ -13,4 +13,4 @@ Revolutionize your inbox! This AI-powered email assistant automatically categori
 🧠 ML Integration: Plug-in architecture for integrating custom ML/NLP models.
 
 🔐 Role-Based Authentication: Secure login system with JWT support.
-https://github.com/Barath2394/Email-AI-Reactor/blob/b897780683eb243d79885b8f315ac4cce6ed1165/Screenshot%20(38).png
+![image alt](https://github.com/Barath2394/Email-AI-Reactor/blob/b897780683eb243d79885b8f315ac4cce6ed1165/Screenshot%20(38).png)
