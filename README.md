@@ -18,3 +18,4 @@ Revolutionize your inbox! This AI-powered email assistant automatically categori
 OUTPUT:
 ![image alt](https://github.com/Barath2394/Email-AI-Reactor/blob/1d3ac26b0e07e614e979ee9e14a56ec8a2fcb29d/IMG_20250430_210321.jpg)
 ![image alt](https://github.com/Barath2394/Email-AI-Reactor/blob/6aceef0151c2b86914ed06ac6cf47f243428cb0a/IMG_20250430_210356.jpg)
+![image alt](https://github.com/Barath2394/Email-AI-Reactor/blob/4d5e6c8fc24dcf3c69b876fee7bc116cf95d1d09/IMG_20250430_210339.jpg)
